@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 ![Header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=江协伟&fontSize=60)
 
 ### Hi there 👋   
-### I'm a programer from Hangzhou Zhejiang China
+### I'm a programer from Hangzhou Zhejiang China . 
+### I have 5 years of experience in java and 1 year in go.
+### Now , I'm using rust in work . I love rust
+### 📫instagram: jiangborrowtime
 
 #### Statistical Data
 ![](https://github-readme-stats.vercel.app/api?username=jiangxiewei&show_icons=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=8e8cd8)
