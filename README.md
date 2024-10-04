@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 ### Hi there 👋   
 ### I'm a programer from China . 
 ### I can speak Mandarin,Japanese and a little bit of English
-### Now , I'm using rust in work . I love rust
-### 📫instagram: jiangborrowtime
 
 #### Statistical Data
 ![](https://github-readme-stats.vercel.app/api?username=jiangxiewei&show_icons=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=8e8cd8)
