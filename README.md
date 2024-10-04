@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 ![Header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=江协伟&fontSize=60)
 
 ### Hi there 👋   
-### I'm a programer from Hangzhou Zhejiang China . 
-### I have 5 years of experience in java and 1 year in go.
+### I'm a programer from China . 
+### I can speak Mandarin,Japanese and a little bit of English
 ### Now , I'm using rust in work . I love rust
 ### 📫instagram: jiangborrowtime
 
