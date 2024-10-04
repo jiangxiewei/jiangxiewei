@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Harmony OS](https://img.shields.io/badge/Harmony_OS-0f0f0f?style=for-the-badge&logo=HarmonyOS&color=red)
+![Harmony OS](https://img.shields.io/badge/Harmony-0f0f0f?style=for-the-badge&logo=HarmonyOS&color=red)
 
 #### Visitors (Since 2021/11/1)
 ![](https://count.getloli.com/get/@jiangxiewei?theme=rule34)
