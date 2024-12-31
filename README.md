@@ -67,3 +67,11 @@ Here are some ideas to get you started:
 
 #### Visitors (Since 2021/11/1)
 ![](https://count.getloli.com/get/@jiangxiewei?theme=rule34)
+
+#### Github Stats
+ [![Jiang's github stats](https://bad-apple-github-readme.vercel.app/api?username=jiangxiewei&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+ 
+ [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=jiangxiewei&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
+[![jiang's current streak](https://streak-stats.demolab.com/?user=jiangxiewei&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
