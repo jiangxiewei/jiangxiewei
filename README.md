@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![Header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=Richard_Jiang&fontSize=60)
 
 ### Hi there 👋   
-### I'm a programer from China . 
+### I'm a programer who live in China . 
 ### I can speak Mandarin,Japanese and a little bit of English
 
 #### Statistical Data
