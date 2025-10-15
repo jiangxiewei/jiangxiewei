@@ -69,9 +69,9 @@ Here are some ideas to get you started:
 ![](https://count.getloli.com/get/@jiangxiewei?theme=rule34)
 
 #### Github Stats
- [![Jiang's github stats](https://bad-apple-github-readme.vercel.app/api?username=jiangxiewei&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
- 
- [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=jiangxiewei&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+<!--  dead [![Jiang's github stats](https://bad-apple-github-readme.vercel.app/api?username=jiangxiewei&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#) -->
 
+[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=jiangxiewei&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 [![jiang's current streak](https://streak-stats.demolab.com/?user=jiangxiewei&count_private=true&theme=blue-green&title_color=00b3ff)](#)
-
+[![commit stat](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jiangxiewei&theme=blueberry)](#)
+[![achivement](https://github-profile-trophy.vercel.app/?username=jiangxiewei&theme=gruvbox&row=1&column=8&no-frame=true&no-bg=true)](#)
