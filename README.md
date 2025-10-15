@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
 #### Spoken Language
 
-![Chinese](https://img.shields.io/badge/Chinese-%23ff0d00?style=for-the-badge&label=native&labelColor=yellow)  
-![Japanese](https://img.shields.io/badge/Japanese-red?style=for-the-badge&label=JLPT-N1&labelColor=ff0d00&color=e6ebed)  
-![English](https://img.shields.io/badge/English-red?style=for-the-badge&label=50%25&labelColor=blue&color=ff0d00)  
+![Chinese](https://img.shields.io/badge/Chinese-%23ff0d00?style=for-the-badge&label=native&labelColor=red&color=e6ebed)  
+![Japanese](https://img.shields.io/badge/Japanese-red?style=for-the-badge&label=JLPT-N1&labelColor=ddb13f&color=e6ebed)  
+![English](https://img.shields.io/badge/English-red?style=for-the-badge&label=50%25&labelColor=purple&color=e6ebed)  
 
 #### Programming Language
 
